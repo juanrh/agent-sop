@@ -1,8 +1,11 @@
 __pycache__
 python/strands_agents_sops/sops
 python/strands_agents_sops/rules
-skills
 dist
 .amazonq
 .agents/scratchpad
 .coverage
+
+# Generated skills (published via GitHub Actions to skills-dist branch)
+skills/
+skills-dist/
